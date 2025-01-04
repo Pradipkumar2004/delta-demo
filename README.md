@@ -1,2 +1,2 @@
 # delta-demo
-this is delta-demo class cdd
+this is delta-demo by PRADIP PARMAR
